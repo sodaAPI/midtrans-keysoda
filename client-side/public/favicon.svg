@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg viewBox="0 0 100 100" width="100px" height="100px" xmlns="http://www.w3.org/2000/svg">
+  <text style="fill: rgb(255, 255, 255); font-family: Poppins, sans-serif; font-size: 20px; font-weight: 700; white-space: pre;" transform="matrix(6.156267, 0, 0, 6.094622, 5.45121, -54.156368)" x="0.501" y="24.418">S</text>
+  <path style="fill: rgb(255, 255, 255);" d="M 38.273 29.254 C 39.949 28.871 71.185 72.05 59.677 76.514 C 41.662 83.497 32.654 74.153 33.183 64.019 L 60.043 31.485 C 60.842 23.129 39.071 20.898 38.273 29.254 Z"/>
+</svg>
