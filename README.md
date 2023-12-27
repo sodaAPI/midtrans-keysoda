@@ -50,10 +50,10 @@ Follow the steps below for installation of this project.
    ```
 3. Setting your Midtrans Client Key and Server Key on App.jsx and OrderRoutes.js .
   ```sh
-  //App.js
+  //App.js on client-side
   const midtransClientKey = "YOUR CLIENT KEY";
 
-  //OrderRoutes.js
+  //OrderRoutes.js on server-side
   const snap = new midtransclient.Snap({
     isProduction: false,
     serverKey: "YOUR SERVER KEY",
